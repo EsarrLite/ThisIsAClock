@@ -203,6 +203,7 @@ body {
 .button_container button:hover {
   background-color: rgb(207, 207, 207);
 }
+
 .clock-shadow {
   width: 300px;
   height: 198px;
